@@ -26,7 +26,6 @@ void threadB(){
     
 }
 
-
 int main(){
     thread t1(threadA);
     thread t2(threadB);
