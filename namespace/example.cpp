@@ -14,7 +14,6 @@ namespace newSpace{
 }
 
 
-
 int newSpace::foo(){
     cout<<"\nThis is foo funciton";
     return 0;
