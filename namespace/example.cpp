@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 namespace newSpace{
     int a;
     int b;
