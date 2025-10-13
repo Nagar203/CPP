@@ -24,7 +24,6 @@ void newSpace::student::fun(){
 }
 
 // using namespace newSpace;
-
 int main(){
     newSpace::a=5;
     cout<<newSpace::a<<endl;
